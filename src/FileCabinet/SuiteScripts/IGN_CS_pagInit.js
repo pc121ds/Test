@@ -6,6 +6,7 @@ define([], () => {
 
     const pageInit = (context) => {
         alert('Sales Order is opened!');
+        return true;
     };
 
     return {
