@@ -1,0 +1,79 @@
+<customlist scriptid="customlist_es_tp_ig_ft_functions">
+  <description>Used to store Transfer Pricing functions.</description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>TP Functions List 5</name>
+  <customvalues>
+    <customvalue scriptid="val_4782791_6106694_sb1_490">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Sales</value>
+    </customvalue>
+    <customvalue scriptid="val_4783028_6106694_sb1_547">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>COGS</value>
+    </customvalue>
+    <customvalue scriptid="val_4782792_6106694_sb1_203">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PMM</value>
+    </customvalue>
+    <customvalue scriptid="val_4782793_6106694_sb1_244">
+      <abbreviation>G</abbreviation>
+      <isinactive>F</isinactive>
+      <value>G&amp;A</value>
+    </customvalue>
+    <customvalue scriptid="val_4782794_6106694_sb1_444">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PS ISV</value>
+    </customvalue>
+    <customvalue scriptid="val_4782795_6106694_sb1_413">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PS GSI</value>
+    </customvalue>
+    <customvalue scriptid="val_4782796_6106694_sb1_233">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Pre sales</value>
+    </customvalue>
+    <customvalue scriptid="val_4782797_6106694_sb1_602">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>R&amp;D</value>
+    </customvalue>
+    <customvalue scriptid="val_4782798_6106694_sb1_608">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>IND-AS</value>
+    </customvalue>
+    <customvalue scriptid="val_4782799_6106694_sb1_108">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Marketing</value>
+    </customvalue>
+    <customvalue scriptid="val_4782800_6106694_sb1_716">
+      <abbreviation>O</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Office expense and overheads</value>
+    </customvalue>
+    <customvalue scriptid="val_4782801_6106694_sb1_624">
+      <abbreviation>S</abbreviation>
+      <isinactive>T</isinactive>
+      <value>S&amp;M ops</value>
+    </customvalue>
+    <customvalue scriptid="val_4782802_6106694_sb1_522">
+      <abbreviation>T</abbreviation>
+      <isinactive>T</isinactive>
+      <value>Transfer Pricing</value>
+    </customvalue>
+    <customvalue scriptid="val_4782803_6106694_sb1_523">
+      <abbreviation>p</abbreviation>
+      <isinactive>T</isinactive>
+      <value>piyush</value>
+    </customvalue>
+  </customvalues>
+</customlist>
